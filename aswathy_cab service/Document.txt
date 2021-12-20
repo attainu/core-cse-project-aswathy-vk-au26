@@ -1,0 +1,34 @@
+INTRODUCTION - ONLINE CAR BOOKING SYSTEM
+
+Online Car Booking management System is developed to manage all cab hiring work online. It useful for car booking agency that are specialized in Hiring cabs to customers. Using this system many car-booking agency are moving ahead to become a pioneer in the vehicle rental industry by completely focusing on customers. Using this system it is very easy for customer to book a car online and car-booking agency can also track their booking online. So it is also very useful for car booking agency. It is an online system through which customers can view available cabs; register the cabs, view profile and book cabs. Mostly peoples use cab service for their daily transportations need. Car booking agency can also check which car is free for booking and which cars are on booking at present time. The objective and scope of my project Online Cab or car booking System is to record the details various activities of user. It will simplify the task and reduce the paper work. Using this car booking management system car owner can also become partner of car booking agency by giving their car for booking. Online Car rental management system is a web based application that allow users to book a car online. From this system car rental company can manage all car bookings and customer information. User can book cars and admin can confirm the booking and cancel the booking on the basis of availability of the cars and drivers.
+
+We have develop this system to produce a web-based system that allow customer to register and reserve cab online and for the company to effectively manage their Cab hiring business. Presently car booking agency do all work offline when a customer comes to them they take the booking order and call the car driver to check their availability with their car if they manage to find a car for booking they confirm the order otherwise they cancel the order as they have no car for the booking. This process waste a lot of time of customer and also of car booking agency and it also give bad name to the agency but with our system car agency can confirm the order within a minute by checking the availability of cars for booking. So this car booking system is helpful to ease customer’s task whenever they need to rent a cab or hire a cab.
+
+How car booking management system work?
+
+When user want to hire a car he contact the car rental service. He can select car he want to hire. This all is done online. To book a car user have to enter his contact information. This system keeps all the details of car booking and when customer booking comes then he check the system for available car and confirm the booking if car is available on the booking date. User have to give information such as dates of and type of car mobile number and address information. User also has to give pick up point information and drop off information to book a car. This system make so easy to manage car booking for the car booking agency that ageny can focus on service quality like how to provides service with well-conditioned new vehicles, with experience drivers for a happy journey of the customers. This project intends to introduce more user friendly in the various activities such as record updating, maintenance, and searching.
+
+The hiring car are categorized into economy, premium and luxury & customers are free to choose any car of their choice based on availability of such car at the time of booking.
+
+Car rental management system also provide services to corporate houses. This system also takes records of the car and their permits and other documents. All cabs have proper permits and documentation so that the clients could not be hassled for the lack of documents. This system also keep records of the car drivers and admin can check driver related information like his name, address, id documents and which car he is driving on booking etc. Cab drivers are educated, polite, and reliable and are trained to handle acute breakdowns. The cab service includes all categories of cars from luxury to budget.
+
+car rental system also helpful to maintain the quality of service by tracking the records of user’s feedback of the service.
+
+Modules of the Projects:
+
+· Driver registration
+
+· Rider Registration
+
+· Distance calculation
+
+· Payment calculation
+
+· Welcome
+
+Car booking management system is an innovative thought to simplify the Transportation problems of Employees of an organization. In the present System, company do maintain a person for the allocating and proper functioning of transportation . The Person appointed needs to look after the assigning and movement of cabs. Authorized person maintains the transportation details in papers, which is a tedious task if any changes need to be done.
+
+Proposed car booking management system
+Functionalities and advantages of proposed car booking management system are:
+
+This Car booking system is an online system and all data is centralized which has overcome the Sharing problem in previous system. We provide free registration for the cab owners. And we proved free service to users who want to book a car or cab. As data is maintained online, it is easy for a person to update the details, which has overcome the tedious updating in previous system. Car booking management is easy and performance is good. Here the traveller can book a cab, taxi and car by viewing all the cab details and pricing details available, according to selected city and area. It is the reliable service provided to both customers and travel agencies. Mainly the system has automated the Transportation Process.

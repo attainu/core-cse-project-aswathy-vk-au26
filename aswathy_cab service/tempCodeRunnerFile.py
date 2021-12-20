@@ -1,0 +1,1 @@
+rint("Pay the Amount of Rs. ", v*amount*(s/10))
